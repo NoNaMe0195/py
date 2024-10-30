@@ -1,0 +1,21 @@
+Найти площадь прямоугольника
+lendgth = float(input('Введите длину: '))
+width = float(input('Введите ширину: '))
+main = lendgth * width 
+print('Ваша площадь', main)
+
+
+
+Типы даннах
+name = 'Adam'
+age = 18
+height = 178.5
+print(type(name))
+print(type(age))
+print(type(height))
+
+
+Конверт температуры
+user = int(input('Введите температуру в градусах: '))
+box = user * 9/5 + 32
+print('Фаренгейт: ' ,box )
